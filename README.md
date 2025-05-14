@@ -33,4 +33,4 @@ Marketing
                            160        $ 8000
 ```
 
-![Пример отчета payout](screenshot1.png)
+![Пример отчета payout](Screenshot1.png)
